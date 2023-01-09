@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/pdfmerger/__init__.py
+src/pdfmerger/app.py
+src/pdfmerger/pdfmerger.py
+src/pdfmerger.egg-info/PKG-INFO
+src/pdfmerger.egg-info/SOURCES.txt
+src/pdfmerger.egg-info/dependency_links.txt
+src/pdfmerger.egg-info/entry_points.txt
+src/pdfmerger.egg-info/requires.txt
+src/pdfmerger.egg-info/top_level.txt
